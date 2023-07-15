@@ -1,4 +1,4 @@
-![image](https://github.com/moonjayden/ice2005/assets/139466574/a4b0eff1-94c5-4c3f-bdb5-690c0eec3e09)![image](https://github.com/moonjayden/ice2005/assets/139466574/ae6fdc4e-d1ab-433a-98f6-5a22b62f5ce7)# ice2005
+# ice2005
 
 SKKU, 2022
 ### Design DNN Computation Module (Verilog HDL)
