@@ -22,20 +22,20 @@ Processing Element
 
 
 1. Single PE Module
-2. 
+
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/96b5ad7c-9781-4304-ad79-12c510710ab4)
 
 
-3. Systolic Array Module
-4. 
+2. Systolic Array Module
+ 
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/718fed9f-1530-4ed6-a013-feebc519a21d)
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/3c07124a-764c-4d3d-ba2e-0a4c7aa82328)
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/5a6e0523-e2c7-4f82-bdbb-c89e9137dd4e)
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/653ddfea-defd-4b2e-9173-2b35532a63ba)
 
 
-5. Broadcast Computation Module
-6. 
+3. Broadcast Computation Module
+
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/e3c6d431-e6bc-4033-81e5-23a37f1d28c8)
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/2d846791-55c0-4c08-996d-aa3b6c326e15)
 
