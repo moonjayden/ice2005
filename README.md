@@ -1,6 +1,8 @@
 # ice2005
 
 SKKU, 2022 
+
+FPGA Verification : FPGA Starter Kit Ⅲ(Artix-7 Based FPGA)
 ### Design DNN Computation Module
 ![image](https://github.com/moonjayden/ice2005/assets/139466574/0c215bf9-8ae9-4ac6-9f8b-a9ca092b13df)
 
